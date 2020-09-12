@@ -1,3 +1,4 @@
+//Q1- To find whether a given pattern exists in a given matrix or not.
 import java.util.Scanner;
 public class Q1_Words {
     public static boolean checkExist(char[][] matrix, String pattern) {

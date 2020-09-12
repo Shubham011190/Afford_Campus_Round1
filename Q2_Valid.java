@@ -1,3 +1,4 @@
+//Q2 - To find whether the parentheses or brackets are in valid combination.
 import java.util.*;
 import java.io.*;
 public class Q2_Valid {
